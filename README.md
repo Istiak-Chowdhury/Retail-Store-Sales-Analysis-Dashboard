@@ -5,5 +5,5 @@ This Retail Store Sales Dashboard provides a comprehensive analysis of retail pe
 
 ## 🔗 Dashboard Demo
 <div align="center">
-<img src="https://github.com/Istiak-Chowdhury/Retail-Store-Sales-Dashboard/blob/265b39b9216fe407621553282aaa3e4892885130/Retail%20Dashboard.JPG)" width="1000" />
+<img src="https://github.com/Istiak-Chowdhury/Retail-Store-Sales-Dashboard/blob/265b39b9216fe407621553282aaa3e4892885130/Retail%20Dashboard.JPG)" width="800" />
 </div>
