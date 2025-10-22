@@ -21,7 +21,7 @@ This Retail Store Sales Dashboard provides a comprehensive analysis of retail pe
 
 ---
 
-💡 Dashboard Insights
+## 💡 Dashboard Insights
 1. **Total Sales: 438K**
 2. **Total Profit: 37K**
 3. **Profit Margin: 8.4%**
@@ -30,3 +30,8 @@ This Retail Store Sales Dashboard provides a comprehensive analysis of retail pe
 6. **Highest Sales State: Maharashtra**
 
 ---
+
+## 🧠 Tools & Technologies
+- **Power BI – for dashboard development and visualization**
+-**Data Cleaning & Transformation: Power Query**
+-**Data Modeling: Relationships, DAX measures, and calculated fields**
