@@ -33,5 +33,5 @@ This Retail Store Sales Dashboard provides a comprehensive analysis of retail pe
 
 ## 🧠 Tools & Technologies
 - **Power BI – for dashboard development and visualization**
--**Data Cleaning & Transformation: Power Query**
--**Data Modeling: Relationships, DAX measures, and calculated fields**
+- **Data Cleaning & Transformation: Power Query**
+- **Data Modeling: Relationships, DAX measures, and calculated fields**
