@@ -13,7 +13,7 @@ This Retail Store Sales Dashboard provides a comprehensive analysis of retail pe
 ---
 
 ## 🚀 Features
-- **Monitor overall Sales, Profit, and Quantity performance.
+- **Monitor overall Sales, Profit, and Quantity performance.**
 - **Analyze Profit Margin across months and product categories.
 - **Identify Top Performing States and Customers by sales volume.
 - **Visualize Sales and Profit Trends over time.
