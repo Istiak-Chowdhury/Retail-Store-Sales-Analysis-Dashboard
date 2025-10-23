@@ -31,10 +31,12 @@ This Retail Store Sales Dashboard provides a comprehensive analysis of retail pe
 
 ---
 
-## 🧠 Tools & Technologies
-- **Power BI – for dashboard development and visualization**
-- **Data Cleaning & Transformation: Power Query**
-- **Data Modeling: Relationships, DAX measures, and calculated fields**
+## 🛠️ Tools and Technologies
+- **Microsoft Power BI Desktop**
+- **Power Query**
+- **Data Cleaning**
+- **DAX (Data Analysis Expressions)**
+- **Data Modeling**   
 
 ---
 
@@ -44,4 +46,20 @@ This Retail Store Sales Dashboard provides a comprehensive analysis of retail pe
 - **Monthly Trends:** Line charts for Total Sales and Total Profit by month  
 - **Category-wise Quantity:** Donut chart highlighting product category distribution  
 - **Top 5 Customers:** Bar chart showing top customers by sales volume  
-- **Sub-Category Sales Breakdown:** Horizontal bar chart comparing sales by sub-category  
+- **Sub-Category Sales Breakdown:** Horizontal bar chart comparing sales by sub-category
+
+---
+
+## 🧩 Business Impact
+1. **Track performance trends in real time.**
+2. **Identify underperforming states or categories.**
+3. **Optimize inventory and pricing strategies.**
+4. **Improve profitability through better decision-making.**
+
+---
+
+## ✅ Conclusion
+
+The **Retail Store Sales Dashboard** provides a clear and interactive overview of key retail metrics, including sales, profit, quantity, and profit margin. It helps users identify top-performing states, products, and customers while tracking monthly sales and profit trends. By visualizing data across categories and regions, the dashboard enables quick insights, better forecasting, and smarter business decisions — turning raw data into actionable intelligence for improved retail performance.
+
+---
